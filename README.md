@@ -1,7 +1,20 @@
-# Discord Chat Bot 📚
+# GoodVibes Discord Chat Bot 🌸 
 
-### About
+Welcome to the GoodVibes Discord Chat Bot public repository! 
 
-### Features
+### About 📚 
 
-### How to Add to Your Discord Server
+
+
+### Features ⭐️
+
+The GoodVibes Discord chat bot has four main features. 
+
+1.) `!dailymotivation`
+
+2.) `!dailycheckup`
+
+3.) `!mentalhealth`
+
+4.) `!joke`
+
