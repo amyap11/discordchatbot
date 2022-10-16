@@ -1,5 +1,4 @@
 // Welcome to the GoodVibes Discord Chat Bot! 
-// You're all-in-one chat bot friend :)
 
 const Discord = require("discord.js")
 const client = new Discord.Client()
